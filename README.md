@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5cbc190a-378a-494b-964b-e02a387ca202/deploy-status)](https://app.netlify.com/sites/jaymcoder-angular-jamstack/deploys)
+
 # NetlifyAngularJamstack
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.2.
